@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Domenico</h1>
-<h3 align="center">Welcome to my personal GitHub page! Here you'll find an overview of my projects, contributions, and interests in the world of software development. Explore my code and discover my passions. Thank you for being here, and I hope you'll find something interesting!"</h3>
+<h3 align="center">Welcome to my personal GitHub page! Here you'll find an overview of my projects, contributions, and interests in the world of software development. Explore my code and discover my passions. Thank you for being here, and I hope you'll find something interesting!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

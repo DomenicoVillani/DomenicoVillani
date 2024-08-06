@@ -23,12 +23,6 @@
 <a href="https://nuxtjs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxt.js" width="40" height="40"/>
 </a>
-<a href="https://www.primefaces.org/primevue" target="_blank" rel="noreferrer">
-    <img src="https://www.primefaces.org/wp-content/uploads/2020/05/primevue-logo.png" alt="primevue" width="40" height="40"/>
-</a>
-<a href="https://www.primefaces.org/primeflex" target="_blank" rel="noreferrer">
-    <img src="https://www.primefaces.org/wp-content/uploads/2020/05/primeflex-logo.png" alt="primeflex" width="40" height="40"/>
-</a>
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
  </a> 

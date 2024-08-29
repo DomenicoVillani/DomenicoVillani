@@ -53,9 +53,7 @@
 </a> 
 </p>
 
-<div>
-  ![Visite](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tuo_username&title=Profile%20Views)
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DomenicoVillani&label=Profile%20views&color=b41e0e&style=plastic" alt="DomenicoVillani" /> </p>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DomenicoVillani99) 
